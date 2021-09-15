@@ -48,3 +48,4 @@ docs/_build/
 # System
 .DS_Store
 
+.Rhistory
